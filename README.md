@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sohan Chakraborty
 
-## 🚀 About Me
+##  About Me
 -  Electronics and Communication Engineering Student  
 -  Narula Institute of Technology  
 -  Aspiring Data Analyst  
