@@ -1,4 +1,4 @@
-# Hi 👋, I'm Soham Chakraborty
+# Hi 👋, I'm Sohan Chakraborty
 
 ## 🚀 About Me
 -  Electronics and Communication Engineering Student  
